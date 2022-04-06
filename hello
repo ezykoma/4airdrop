@@ -1,0 +1,6 @@
+print("hello, cryptocurrency!")
+a=input("input your age:")
+  if a>17;
+  print("your access included")
+  elif a<17
+  print("access denied")
